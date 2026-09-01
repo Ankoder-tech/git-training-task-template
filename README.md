@@ -18,7 +18,7 @@
 * Add a "**your_name.md**" file inside the *docs* folder and add your details about yourself.
 * Add your name in the navbar of the website.
 * Commit your changes and push it to your own personal repository.
-* Create a pull request on the [Docusaurus](https://github.com/goyalshivansh2805/docusaurus-2025) website.
+* Create a pull request on the [Docusaurus](https://github.com/MonuChaudhary14/docusaurus-2026) website.
 * Add your personal repository link as a submodule inside this repository.
 * Commit and push the changes to the remote repository.
 ### Task 5:
