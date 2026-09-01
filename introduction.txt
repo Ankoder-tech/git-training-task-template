@@ -1,1 +1,22 @@
 
+**Introduction**
+
+
+
+Hello, I’m Ankit Shukla, a Computer Science and Engineering student at Ajay Kumar Garg Engineering College 
+with a strong interest in software development and emerging technologies.
+
+I am from Prayagraj,Nani and I done my Schooling from Semstar Global School Nani,Prayagraj. 
+
+
+
+I have a growing foundation in Java, Data Structures and Algorithms, Python. 
+I enjoy solving programming problems, continuously strengthening my technical 
+and problem-solving skills and I gradually moving towards backend development.
+
+
+
+I am passionate about learning new technologies, taking on challenging problems, 
+and applying my knowledge to build efficient and meaningful software solutions. 
+My goal is to continuously grow as a software developer and contribute to impactful projects.
+
