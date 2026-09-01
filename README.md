@@ -1,4 +1,4 @@
-# Git-task-git-training-template
+# Git-training-task-template
 
 # Introduction To Git
 
