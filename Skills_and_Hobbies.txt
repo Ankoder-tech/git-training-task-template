@@ -1,0 +1,16 @@
+My Hobbies and Skills
+
+Hobbies:
+- Coding and solving programming problems
+- Learning new technologies
+- Exploring software and app development
+- Working on personal projects
+- Watching Anime
+
+Skills:
+- Java
+- Data Structures and Algorithms (DSA)
+- Python
+- Flutter
+- Git and GitHub
+- Problem Solving
